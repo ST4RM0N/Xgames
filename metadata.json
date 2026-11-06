@@ -1,0 +1,6 @@
+{
+  "name": "Grokpot",
+  "description": "Bot recipe trees and Mind Gardens: parse workflow documents into actionable automation hierarchies and grow interactive bioluminescent knowledge graphs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
